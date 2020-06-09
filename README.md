@@ -14,5 +14,5 @@ merchants use Paytm QR code for accepting the payments directly into their
 bank account.
 
 The main idea of the project is to analyze the start-up and growth stages
-of a company, critical junctures and the development of the company. A detailed study is done about the company's main
+of the company, critical junctures and the development of the company. A detailed study is done about the company's main
 value proposition, business model, revenue model, their beachhead market, etc. Also, we researched about various growth stages of the company and how it's business model changed over the period of time.
